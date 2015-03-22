@@ -1,6 +1,8 @@
 # Project - Getting and Cleaning Data
+---
 
 The code assumes that the data for the project has been downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and unzipped in the working directory.
+
 ---
 
 The "run_analysis.R" script runs in the following manner:
