@@ -17,3 +17,5 @@ The "run_analysis.R" script runs in the following manner:
     8. Writes the final file to: "tidy.data.txt"
 
 <em>Note that the code is heavily commented to guide a user</em>
+
+Script requires the 'reshape2' and 'dplyr' libraries to be installed.
